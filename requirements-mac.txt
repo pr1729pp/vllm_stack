@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+safetensors
+sentencepiece
+numpy
+pandas
+psutil
+requests
+openai
+pytest
